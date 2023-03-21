@@ -1,0 +1,32 @@
+body{
+    background: aquamarine;
+}
+
+#mobile{
+    width: 400px;
+    height: 150px;
+}
+
+#google{
+    width: 200px;
+    height: 200px;
+}
+
+#small{
+    height: 200px;
+    width: 350px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+  .span{
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+  }
